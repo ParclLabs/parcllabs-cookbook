@@ -1,0 +1,16 @@
+name: parcllabs-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - pip
+  - matplotlib
+  - scikit-learn
+  - notebook
+  - plotly
+  - pip:
+    - parcllabs==0.1.7
