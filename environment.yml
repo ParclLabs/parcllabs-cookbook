@@ -13,4 +13,4 @@ dependencies:
   - notebook
   - plotly
   - pip:
-    - parcllabs==0.1.7
+    - parcllabs==0.1.8
