@@ -13,4 +13,5 @@ dependencies:
   - notebook
   - plotly
   - pip:
-    - parcllabs==0.1.8
+    - parcllabs==0.1.14
+    - kaleido
