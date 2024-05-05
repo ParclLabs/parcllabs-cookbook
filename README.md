@@ -47,18 +47,22 @@ We write all of our own content off of these notebooks. Here are some of the gre
 
 ![Chart](python/assets/atlanta_investor_share.png)
 
-### [Map of where 1000+ unit portfolios own the most home, 3000+ counties](python/map_of_investor_ownership.ipynb)
+### [Map of where 1000+ unit portfolios own the most home, 3000+ counties notebook](python/map_of_investor_ownership.ipynb)
 
 ![Chart](python/assets/large_institutional_ownership.png)
 
-### [Deep dive market analysis](python/market_analysis.ipynb)
+### [Deep dive market analysis notebook](python/market_analysis.ipynb)
 
 ![Chart](python/assets/purchase_price_vs_list_price.png)
 
-### [Which metros have the highest concentration of investor ownership](python/table_of_investor_concentration.ipynb)
+### [Which metros have the highest concentration of investor ownership notebook](python/table_of_investor_concentration.ipynb)
 
 ![Chart](python/assets/all_homes_owned_by_investors.png)
 
-### [Are investor net buyers or sellers?](python/table_of_purchase_to_sale_ratio.ipynb)
+### [Are investor net buyers or sellers notebook?](python/table_of_purchase_to_sale_ratio.ipynb)
 
 ![Chart](python/assets/purchase_to_sale_ratio.png)
+
+### [1000+ unit portfolio share of single family home resale listings market notebook](python/large_institutional_impact_on_resale_market.ipynb)
+
+![Chart1](python/assets/percent_of_resale_market_by_1000_plus_unit_portfolios.png)
