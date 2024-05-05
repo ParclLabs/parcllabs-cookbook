@@ -1,5 +1,5 @@
 ![Logo](img/labs.jpg)
-# parcllabs-examples
+# Welcome to the Lab 🥼🧪
 
 ## Sign Up for an API Key
 
