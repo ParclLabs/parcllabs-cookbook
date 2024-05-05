@@ -59,10 +59,6 @@ We write all of our own content off of these notebooks. Here are some of the gre
 
 ![Chart](python/assets/all_homes_owned_by_investors.png)
 
-### [Are investor net buyers or sellers?](python/table_of_purchase_to_sale_rat.ipynb)
+### [Are investor net buyers or sellers?](python/table_of_purchase_to_sale_ratio.ipynb)
 
-![Chart](python/assets/atlanta_investor_share.png)
-
-### [Investor Share of Resale Listings Notebook](python/investor_share_of_resale_listings.ipynb)
-
-![Chart](python/assets/atlanta_investor_share.png)
+![Chart](python/assets/purchase_to_sale_ratio.png)
