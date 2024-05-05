@@ -1,9 +1,13 @@
 ![Logo](img/labs.jpg)
 # Welcome to the Lab 🥼🧪
 
+Welcome to the Parcl Labs repository. This repository contains examples of how to use the Parcl Labs API. The Parcl Labs API is a real-time, advanced real estate analytics data technology. It accelerates time to analysis, shifting the 80% of time typically spent on data wrangling to analysis.
+
+We open source all of our content off of [X](https://twitter.com/ParclLabs). How we do it is 👇
+
 ## Sign Up for an API Key
 
-To use the Parcl Labs API, you need an API key. To get an API key, sign up at [ParclLabs](https://dashboard.parcllabs.com/signup).
+To use the Parcl Labs API, you need an API key. To get an API key, sign up at [Parcl Labs](https://dashboard.parcllabs.com/signup).
 
 ## Installation
 
