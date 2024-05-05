@@ -7,7 +7,7 @@ To use the Parcl Labs API, you need an API key. To get an API key, sign up at [P
 
 ## Installation
 
-The fastest way to get started is to use our Binder integration. Click the button below to launch a Jupyter notebook with the code from this repository.
+The fastest ways to get started are with Binder or Google Colab. Google Colab is embedded directly in each notebook. It is substantially faster than Binder and our recommended way to get started the fastest. 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ParclLabs/parcllabs-examples/main)
 
@@ -38,3 +38,31 @@ conda activate parcllabs-env
 ```bash
 jupyter notebook
 ```
+
+## Inspiration
+
+We write all of our own content off of these notebooks. Here are some of the greatest hits: 
+
+### [Investor Share of Resale Listings Notebook](python/investor_share_of_resale_listings.ipynb)
+
+![Chart](python/assets/atlanta_investor_share.png)
+
+### [Map of where 1000+ unit portfolios own the most home, 3000+ counties](python/map_of_investor_ownership.ipynb)
+
+![Chart](python/assets/large_institutional_ownership.png)
+
+### [Deep dive market analysis](python/market_analysis.ipynb)
+
+![Chart](python/assets/purchase_price_vs_list_price.png)
+
+### [Which metros have the highest concentration of investor ownership](python/table_of_investor_concentration.ipynb)
+
+![Chart](python/assets/all_homes_owned_by_investors.png)
+
+### [Are investor net buyers or sellers?](python/table_of_purchase_to_sale_rat.ipynb)
+
+![Chart](python/assets/atlanta_investor_share.png)
+
+### [Investor Share of Resale Listings Notebook](python/investor_share_of_resale_listings.ipynb)
+
+![Chart](python/assets/atlanta_investor_share.png)
