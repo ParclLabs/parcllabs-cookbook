@@ -59,6 +59,9 @@ We write all of our own content off of these notebooks. Here are some of the gre
 
 ![Chart](python/assets/purchase_price_vs_list_price.png)
 
+### [Map of where 1000+ unit portfolios own the most homes, in all zip codes in Georgia](python/map_of_investor_ownership_zip_code.ipynb)
+![Chart](python/assets/atlanta_investor_ownership.png)
+
 ### [Which metros have the highest concentration of investor ownership notebook](python/table_of_investor_concentration.ipynb)
 
 ![Chart](python/assets/all_homes_owned_by_investors.png)
