@@ -73,3 +73,7 @@ We write all of our own content off of these notebooks. Here are some of the gre
 ### [1000+ unit portfolio share of single family home resale listings market notebook](python/large_institutional_impact_on_resale_market.ipynb)
 
 ![Chart1](python/assets/percent_of_resale_market_by_1000_plus_unit_portfolios.png)
+
+### [Gross Yield and Median Rental Price](python/gross_yield_vs_rental_price.ipynb)
+
+![Chart1](python/assets/gross_yield_and_rent_price.png)
