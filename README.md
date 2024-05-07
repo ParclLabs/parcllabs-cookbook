@@ -47,6 +47,10 @@ jupyter notebook
 
 We write all of our own content off of these notebooks. Here are some of the greatest hits: 
 
+### [Market Supply and Demand Analysis Notebook](python/supply_demand.ipynb)
+
+![Chart](python/assets/purchase_price_vs_new_listings_price.png)
+
 ### [Investor Share of Resale Listings Notebook](python/investor_share_of_resale_listings.ipynb)
 
 ![Chart](python/assets/atlanta_investor_share.png)
