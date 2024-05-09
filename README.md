@@ -85,3 +85,7 @@ We write all of our own content off of these notebooks. Here are some of the gre
 ### [YoY Rental Price Changes for Every Zipcode Notebook](python/map_of_yoy_rental_rates_by_zip.ipynb)
 
 ![Chart1](python/assets/fl_yoy_rental_prices.png)
+
+### [Which Metros Have the Highest Share of Mom and Pop Ownership? Institutional Ownership?](python/table_of_mom_and_pop_vs_institutions_ownership.ipynb)
+
+![Chart1](python/assets/top100_metros_mom_and_pops.png)
