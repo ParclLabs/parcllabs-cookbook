@@ -81,3 +81,7 @@ We write all of our own content off of these notebooks. Here are some of the gre
 ### [Gross Yield and Median Rental Price](python/gross_yield_vs_rental_price.ipynb)
 
 ![Chart1](python/assets/gross_yield_and_rent_price.png)
+
+### [YoY Rental Price Changes for Every Zipcode Notebook](python/map_of_yoy_rental_rates_by_zip.ipynb)
+
+![Chart1](python/assets/fl_yoy_rental_prices.png)
