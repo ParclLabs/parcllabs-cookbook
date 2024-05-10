@@ -89,3 +89,8 @@ We write all of our own content off of these notebooks. Here are some of the gre
 ### [Which Metros Have the Highest Share of Mom and Pop Ownership? Institutional Ownership?](python/table_of_mom_and_pop_vs_institutions_ownership.ipynb)
 
 ![Chart1](python/assets/top100_metros_mom_and_pops.png)
+
+
+### [Single Family Home Rental Supply (30 Day Rolling) Notebook](python/single_family_new_rental_listings_supply.ipynb)
+
+![Chart1](python/assets/sfh_rental_supply_30_day.png)
