@@ -43,6 +43,12 @@ conda activate parcllabs-env
 jupyter notebook
 ```
 
+## Introduction
+
+The best way to get started is by doing. The entry point into the Parcl Labs data ecosystem is the `parcllabs` package. The `parcllabs` package is a Python package that provides a simple interface to the Parcl Labs API. Using this package, we can search the parcl ecosystem for data, download data, and analyze data.
+
+- [Introduction to Search Notebook](python/introduction/search.ipynb)
+
 ## Inspiration
 
 We write all of our own content off of these notebooks. Here are some of the greatest hits: 
