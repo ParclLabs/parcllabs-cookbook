@@ -43,54 +43,62 @@ conda activate parcllabs-env
 jupyter notebook
 ```
 
+## Introduction
+
+The best way to get started is by doing. The entry point into the Parcl Labs data ecosystem is the `parcllabs` package. The `parcllabs` package is a Python package that provides a simple interface to the Parcl Labs API. Using this package, we can search the parcl ecosystem for data, download data, and analyze data.
+
+- [Introduction to Search Notebook](python/introduction/search.ipynb)
+- [How to Download Data as a CSV Notebook](python/introduction/download_data.ipynb)
+- [How to Retrieve, Analyze and Download Real Time Daily Price Feed Data](python/introduction/price_feed.ipynb)
+
 ## Inspiration
 
 We write all of our own content off of these notebooks. Here are some of the greatest hits: 
 
-### [Market Supply and Demand Analysis Notebook](python/supply_demand.ipynb)
+### [Market Supply and Demand Analysis Notebook](python/inspiration/supply_demand.ipynb)
 
 ![Chart](python/assets/purchase_price_vs_new_listings_price.png)
 
-### [Investor Share of Resale Listings Notebook](python/investor_share_of_resale_listings.ipynb)
+### [Investor Share of Resale Listings Notebook](python/inspiration/investor_share_of_resale_listings.ipynb)
 
 ![Chart](python/assets/atlanta_investor_share.png)
 
-### [Map of where 1000+ unit portfolios own the most home, 3000+ counties notebook](python/map_of_investor_ownership.ipynb)
+### [Map of where 1000+ unit portfolios own the most home, 3000+ counties notebook](python/inspiration/map_of_investor_ownership.ipynb)
 
 ![Chart](python/assets/large_institutional_ownership.png)
 
-### [Deep dive market analysis notebook](python/market_analysis.ipynb)
+### [Deep dive market analysis notebook](python/inspiration/market_analysis.ipynb)
 
 ![Chart](python/assets/purchase_price_vs_list_price.png)
 
-### [Map of where 1000+ unit portfolios own the most homes, in all zip codes in Georgia](python/map_of_investor_ownership_zip_code.ipynb)
+### [Map of where 1000+ unit portfolios own the most homes, in all zip codes in Georgia](python/inspiration/map_of_investor_ownership_zip_code.ipynb)
 ![Chart](python/assets/atlanta_investor_ownership.png)
 
-### [Which metros have the highest concentration of investor ownership notebook](python/table_of_investor_concentration.ipynb)
+### [Which metros have the highest concentration of investor ownership notebook](python/inspiration/table_of_investor_concentration.ipynb)
 
 ![Chart](python/assets/all_homes_owned_by_investors.png)
 
-### [Are investor net buyers or sellers notebook?](python/table_of_purchase_to_sale_ratio.ipynb)
+### [Are investor net buyers or sellers notebook?](python/inspiration/table_of_purchase_to_sale_ratio.ipynb)
 
 ![Chart](python/assets/purchase_to_sale_ratio.png)
 
-### [1000+ unit portfolio share of single family home resale listings market notebook](python/large_institutional_impact_on_resale_market.ipynb)
+### [1000+ unit portfolio share of single family home resale listings market notebook](python/inspiration/large_institutional_impact_on_resale_market.ipynb)
 
 ![Chart1](python/assets/percent_of_resale_market_by_1000_plus_unit_portfolios.png)
 
-### [Gross Yield and Median Rental Price](python/gross_yield_vs_rental_price.ipynb)
+### [Gross Yield and Median Rental Price](python/inspiration/gross_yield_vs_rental_price.ipynb)
 
 ![Chart1](python/assets/gross_yield_and_rent_price.png)
 
-### [YoY Rental Price Changes for Every Zipcode Notebook](python/map_of_yoy_rental_rates_by_zip.ipynb)
+### [YoY Rental Price Changes for Every Zipcode Notebook](python/inspiration/map_of_yoy_rental_rates_by_zip.ipynb)
 
 ![Chart1](python/assets/fl_yoy_rental_prices.png)
 
-### [Which Metros Have the Highest Share of Mom and Pop Ownership? Institutional Ownership?](python/table_of_mom_and_pop_vs_institutions_ownership.ipynb)
+### [Which Metros Have the Highest Share of Mom and Pop Ownership? Institutional Ownership?](python/inspiration/table_of_mom_and_pop_vs_institutions_ownership.ipynb)
 
 ![Chart1](python/assets/top100_metros_mom_and_pops.png)
 
 
-### [Single Family Home Rental Supply (30 Day Rolling) Notebook](python/single_family_new_rental_listings_supply.ipynb)
+### [Single Family Home Rental Supply (30 Day Rolling) Notebook](python/inspiration/single_family_new_rental_listings_supply.ipynb)
 
 ![Chart1](python/assets/sfh_rental_supply_30_day.png)
