@@ -49,6 +49,7 @@ The best way to get started is by doing. The entry point into the Parcl Labs dat
 
 - [Introduction to Search Notebook](python/introduction/search.ipynb)
 - [How to Download Data as a CSV Notebook](python/introduction/download_data.ipynb)
+- [How to Retrieve, Analyze and Download Real Time Daily Price Feed Data](python/introduction/price_feed.ipynb)
 
 ## Inspiration
 
