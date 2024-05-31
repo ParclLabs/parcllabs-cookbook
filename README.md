@@ -51,6 +51,25 @@ The best way to get started is by doing. The entry point into the Parcl Labs dat
 - [How to Download Data as a CSV Notebook](python/introduction/download_data.ipynb)
 - [How to Retrieve, Analyze and Download Real Time Daily Price Feed Data](python/introduction/price_feed.ipynb)
 
+## Are you a real estate trader? 
+
+We have compiled some of our research into [traders](python/traders) notebooks. These notebooks are designed to help you understand the market, the time series, build models, and DYOR. 
+
+Example analysis output: 
+
+#### Portfolio Analysis
+![Chart](python/assets/traders/portfolio.png)
+
+#### Seasonality Analysis
+![Chart](python/assets/traders/pf_seasonality.png)
+
+#### Cross ApEn Analysis
+![Chart](python/assets/traders/cross_apen.png)
+
+#### Correllation Analysis
+![Chart](python/assets/traders/us_housing_vs_rents.png)
+![Chart](python/assets/traders/corr_coef_since_23.png)
+
 ## Inspiration
 
 We write all of our own content off of these notebooks. Here are some of the greatest hits: 
