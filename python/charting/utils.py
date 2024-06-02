@@ -6,23 +6,51 @@ import plotly.graph_objects as go
 
 
 labs_logo_lookup = {
-    'blue': 'https://parcllabs-assets.s3.amazonaws.com/powered-by-parcllabs-api.png',
-    'white': 'https://parcllabs-assets.s3.amazonaws.com/powered-by-parcllabs-api-logo-white+(1).svg'
+    'labs': {
+        'blue': 'https://parcllabs-assets.s3.amazonaws.com/powered-by-parcllabs-api.png',
+        'white': 'https://parcllabs-assets.s3.amazonaws.com/powered-by-parcllabs-api-logo-white+(1).svg'
+    },
+    'resiclub': {
+        'white': 'https://parcllabs-assets.s3.amazonaws.com/p1r-white.svg'
+    }
 }
 
-# Set charting constants
-labs_logo_dict = dict(
-    source=labs_logo_lookup['white'],
-    xref="paper",
-    yref="paper",
-    x=0.5,  # Centering the logo below the title
-    y=1.04,  # Adjust this value to position the logo just below the title
-    sizex=0.15, 
-    sizey=0.15,
-    xanchor="center",
-    yanchor="bottom",
-)
 
+def format_metro_names(
+        nme: str,
+        include_state: bool=False
+):
+    state = nme.split(',')[-1].strip().upper().split('-')[0].upper()
+    metro = nme.split(',')[0].split('-')[0].strip()
+    metro = metro.split('/')[0].strip()
+    if include_state:
+        return f"{metro}, {state}"
+    return metro
+
+
+def create_labs_logo_dict(
+        src: str='labs',
+        color: str='white',
+        xref: str='paper',
+        yref: str='paper',
+        x: float=0.5,
+        y: float=1.04,
+        sizex: float=0.15,
+        sizey: float=0.15,
+        xanchor: str='center',
+        yanchor: str='bottom'
+):
+    return dict(
+        source=labs_logo_lookup[src].get(color, 'white'),
+        xref=xref,
+        yref=yref,
+        x=x,
+        y=y,
+        sizex=sizex,
+        sizey=sizey,
+        xanchor=xanchor,
+        yanchor=yanchor
+    )
 
 def build_line_chart(
         data: pd.DataFrame,
