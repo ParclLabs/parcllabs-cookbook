@@ -74,6 +74,10 @@ Example analysis output:
 
 We write all of our own content off of these notebooks. Here are some of the greatest hits: 
 
+### [Institutional Activity Review Notebook](python/inspiration/investors/port_1000_plus_acq_disp.ipynb)
+
+![Chart](python/assets/april_institutional_activity.png)
+
 ### [Market Supply and Demand Analysis Notebook](python/inspiration/supply_demand.ipynb)
 
 ![Chart](python/assets/purchase_price_vs_new_listings_price.png)
