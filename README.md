@@ -1,127 +1,71 @@
-![Logo](img/labs.jpg)
-# Welcome to the Lab 🥼🧪
+# Welcome to the Lab: Parcl Labs Examples Repository
 
-Welcome to the Parcl Labs repository. This repository contains examples of how to use the Parcl Labs API. The Parcl Labs API is a real-time, advanced real estate analytics data technology. It accelerates time to analysis, shifting the 80% of time typically spent on data wrangling to analysis.
+This repository provides ready-to-use code snippets and notebooks to help you easily use the Parcl Labs API for its top use cases: real estate trading and housing market analysis.
 
-We open source all of our content off of [X](https://twitter.com/ParclLabs). How we do it is 👇
+## Prerequisites
 
-## Sign Up for an API Key
+1. **Sign up for a free API key:** To use the examples in this repository, get a Parcl Labs API key [here](https://dashboard.parcllabs.com/signup).
+2. **Review the API documentation:** Understand the data points, markets, and resources available. For help, check out these links:
+    - [API developer documentation](https://docs.parcllabs.com/docs/introduction)
+    - [Parcl Labs API community](https://docs.parcllabs.com/discuss)
+    - [Parcl Labs SDK](https://github.com/ParclLabs/parcllabs-python)
+3. **Set up to use example notebooks:** Use [Google Colab](https://colab.research.google.com/) for quick setup and execution, or run the code locally or your preferred environment. Google Colab is embedded in primary notebooks for easy use.
 
-To use the Parcl Labs API, you need an API key. To get an API key, sign up at [Parcl Labs](https://dashboard.parcllabs.com/signup).
+## Examples Repository Overview
 
-## Installation
+Parcl Labs examples are categorized into three main sections:
 
-The fastest ways to get started are with Binder or Google Colab. Google Colab is embedded directly in each notebook. It is substantially faster than Binder and our recommended way to get started the fastest. 
+1. **Getting Started**: Introductory resources to help you navigate the Parcl Labs API, search markets, and download data into CSVs.
+2. **Housing Market Research**: Notebooks for analyzing the US housing market, including sales, listings, rentals, and investor trends.
+3. **Parcl Price Feed and Trader Resources:** Resources for traders to leverage the Parcl Labs API, understand Parcl markets, access price feed time series, build models. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ParclLabs/parcllabs-examples/main)
+For the brave, explore the **experimental folder** where the Parcl Labs team tests new ideas. See and contribute to ongoing projects.
 
-## Local Installation
+## Getting Started
 
-You can fully reproduce the results of this repository on your own local machine. To do so, follow the steps below:
+If you’re new to the Parcl Labs API, start here!: 
 
-1. Clone the repository:
+- **Introduction to Search:** Learn how to get the unique `parcl_id` (market level identifiers) for the markets you want to analyze. This is a key concept that will help you understand how to pull market-level datapoints across the API.
+- **Data Downloader:** Download data across all Parcl Labs endpoints into a CSV. This is a great resource for users who want access to Parcl Labs data but may be less familiar with using an API.
 
-```bash
-git clone https://github.com/ParclLabs/parcllabs-examples.git
-```
+## Housing Market Research
 
-2. Install the enviornment:
+Parcl Labs produces and open sources cutting-edge research on the housing market. The intent of these notebooks is to make this type of analysis accessible to everyone, from curating datasets to generating user-friendly charts.
 
-```bash
-conda env create -f environment.yml
-```
+These notebooks fall into two subsections: **Supply and Demand** and **Investor Analytics**.
 
-3. Activate Environment:
+### Supply and Demand
 
-```bash
-conda activate parcllabs-env
-```
+Examine market-level trends in listings, sales, rental prices, and supply and demand dynamics.
 
-4. Run the Jupyter Notebook:
+*Notebooks:*
 
-```bash
-jupyter notebook
-```
+- [**Market Supply and Demand Analysis**:](https://github.com/ParclLabs/parcllabs-examples/blob/main/python/inspiration/supply_demand.ipynb) Select a market and explore supply, demand, and pricing characteristics related to listings, sales, and rental prices.
 
-## Introduction
+### Investor Analytics
 
-The best way to get started is by doing. The entry point into the Parcl Labs data ecosystem is the `parcllabs` package. The `parcllabs` package is a Python package that provides a simple interface to the Parcl Labs API. Using this package, we can search the parcl ecosystem for data, download data, and analyze data.
+Analyze investor behavior, portfolio sizes, and their impact on the housing market.
 
-- [Introduction to Search Notebook](python/introduction/search.ipynb)
-- [How to Download Data as a CSV Notebook](python/introduction/download_data.ipynb)
-- [How to Retrieve, Analyze and Download Real Time Daily Price Feed Data](python/introduction/price_feed.ipynb)
+*Notebooks:*
 
-## Are you a real estate trader? 
+- [**Institutional Investor Ownership**:](https://github.com/ParclLabs/parcllabs-examples/blob/main/python/inspiration/map_of_investor_ownership.ipynb) Analyze and map investor ownership in counties based on portfolio size to understand their home ownership concentration across the U.S.
 
-We have compiled some of our research into [traders](python/traders) notebooks. These notebooks are designed to help you understand the market, the time series, build models, and DYOR. 
+## Parcl Price Feed and Trader Resources
 
-Example analysis output: 
+Parcl Labs developed its [Parcl Price Feed](https://www.parcllabs.com/articles/parcl-labs-price-feed-whitepaper) to support the [Parcl](https://app.parcl.co) trading platform, enabling billions in trading volume. Price Feed data serves Parcl Traders and other applications by offering a real-time market indicator of U.S. and global housing market movements.
 
-#### Portfolio Analysis
-![Chart](python/assets/traders/portfolio.png)
+<p align="center">
+  <img src="images/technical_pf_usa_vs_demand_chart.png" alt="Alt text">
+</p>
 
-#### Seasonality Analysis
-![Chart](python/assets/traders/pf_seasonality.png)
+These resources range from core tasks like downloading price feed data to advanced charting and portfolio construction analytics.
 
-#### Cross ApEn Analysis
-![Chart](python/assets/traders/cross_apen.png)
+*Notebooks:*
 
-#### Correllation Analysis
-![Chart](python/assets/traders/us_housing_vs_rents.png)
-![Chart](python/assets/traders/corr_coef_since_23.png)
+- [**Retrieve and Download Historical Price Feeds**:](https://github.com/ParclLabs/parcllabs-examples/blob/main/python/introduction/price_feed.ipynb): Learn how to retrieve all historical price feeds for markets currently tradeable on the Parcl Exchange. This is useful for backtesting and analyzing past market trends.
+- **Technical Price Feed and Volume Chart**: Create a financial chart that visualizes price feed action and and sales volume.
 
-## Inspiration
+Experimental:
 
-We write all of our own content off of these notebooks. Here are some of the greatest hits: 
-
-### [Institutional Activity Review Notebook](python/inspiration/investors/port_1000_plus_acq_disp.ipynb)
-
-![Chart](python/assets/april_institutional_activity.png)
-
-### [Market Supply and Demand Analysis Notebook](python/inspiration/supply_demand.ipynb)
-
-![Chart](python/assets/purchase_price_vs_new_listings_price.png)
-
-### [Investor Share of Resale Listings Notebook](python/inspiration/investor_share_of_resale_listings.ipynb)
-
-![Chart](python/assets/atlanta_investor_share.png)
-
-### [Map of where 1000+ unit portfolios own the most home, 3000+ counties notebook](python/inspiration/map_of_investor_ownership.ipynb)
-
-![Chart](python/assets/large_institutional_ownership.png)
-
-### [Deep dive market analysis notebook](python/inspiration/market_analysis.ipynb)
-
-![Chart](python/assets/purchase_price_vs_list_price.png)
-
-### [Map of where 1000+ unit portfolios own the most homes, in all zip codes in Georgia](python/inspiration/map_of_investor_ownership_zip_code.ipynb)
-![Chart](python/assets/atlanta_investor_ownership.png)
-
-### [Which metros have the highest concentration of investor ownership notebook](python/inspiration/table_of_investor_concentration.ipynb)
-
-![Chart](python/assets/all_homes_owned_by_investors.png)
-
-### [Are investor net buyers or sellers notebook?](python/inspiration/table_of_purchase_to_sale_ratio.ipynb)
-
-![Chart](python/assets/purchase_to_sale_ratio.png)
-
-### [1000+ unit portfolio share of single family home resale listings market notebook](python/inspiration/large_institutional_impact_on_resale_market.ipynb)
-
-![Chart1](python/assets/percent_of_resale_market_by_1000_plus_unit_portfolios.png)
-
-### [Gross Yield and Median Rental Price](python/inspiration/gross_yield_vs_rental_price.ipynb)
-
-![Chart1](python/assets/gross_yield_and_rent_price.png)
-
-### [YoY Rental Price Changes for Every Zipcode Notebook](python/inspiration/map_of_yoy_rental_rates_by_zip.ipynb)
-
-![Chart1](python/assets/fl_yoy_rental_prices.png)
-
-### [Which Metros Have the Highest Share of Mom and Pop Ownership? Institutional Ownership?](python/inspiration/table_of_mom_and_pop_vs_institutions_ownership.ipynb)
-
-![Chart1](python/assets/top100_metros_mom_and_pops.png)
-
-
-### [Single Family Home Rental Supply (30 Day Rolling) Notebook](python/inspiration/single_family_new_rental_listings_supply.ipynb)
-
-![Chart1](python/assets/sfh_rental_supply_30_day.png)
+- **Price Feed vs. Rental Feed Relationship Analytics:** Explore the relationship between price feeds and rental feeds using correlation matrices, standard deviations, cross-correlation plots, and dual-axis charts to understand the dynamics and lag effects between sales and rental prices.
+- **Portfolio Construction:** Analyze price feeds for portfolio optimization, assess asset weights over time, evaluate seasonality, and forecast cumulative returns using historical data.
