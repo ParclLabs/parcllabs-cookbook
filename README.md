@@ -58,12 +58,12 @@ Parcl Labs developed its [Parcl Price Feed](https://www.parcllabs.com/articles/p
   <img src="images/technical_pf_usa_vs_demand_chart.png" alt="Alt text">
 </p>
 
-These resources range from core tasks like downloading price feed data to advanced charting and portfolio construction analytics.
+These resources range from core tasks like downloading price feed data to advanced charting.
 
 *Notebooks:*
 
-- [**Retrieve and Download Historical Price Feeds**:](https://github.com/ParclLabs/parcllabs-examples/blob/main/python/introduction/price_feed.ipynb): Learn how to retrieve all historical price feeds for markets currently tradeable on the Parcl Exchange. This is useful for backtesting and analyzing past market trends.
-- **Technical Price Feed and Volume Chart**: Create a financial chart that visualizes price feed action and and sales volume.
+- [**Retrieve and Download Historical Price Feeds**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/price_feed_trader_resources/download_sales_price_feed_data.ipynb): Learn how to retrieve all historical price feeds for markets currently tradeable on the Parcl Exchange. This is useful for backtesting and analyzing past market trends.
+- [**Technical Price Feed and Volume Chart**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/price_feed_trader_resources/technical_pricefeed_vs_supply_demand_chart.ipynb): Create a financial chart that visualizes price feed action and and sales volume.
 
 Experimental:
 
