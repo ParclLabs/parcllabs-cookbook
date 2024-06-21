@@ -42,13 +42,13 @@ These notebooks fall into two subsections: **Supply and Demand** and **Investor 
 
 ### Supply and Demand
 
-Examine market-level trends in listings, sales, rental prices, and supply and demand dynamics.
+_Inventory and Price Cut Analysis_
 
 <p align="center">
   <img src="images/tampa_market_price_drops.png" alt="Alt text">
 </p>
 
-New construction analysis
+_New construction analysis_
 
 <p align="center">
   <img src="images/new_construction_pricing_and_demand.png" alt="Alt text">
@@ -65,11 +65,13 @@ Analyze investor behavior, portfolio sizes, and their impact on the housing mark
 
 *Notebooks:*
 
-- [**Institutional Investor Ownership**](https://github.com/ParclLabs/parcllabs-examples/blob/main/python/inspiration/map_of_investor_ownership.ipynb): Analyze and map investor ownership in counties based on portfolio size to understand their home ownership concentration across the U.S.
+- [**Institutional Investor Acitivity**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/housing_market_research/institutional_activity.ipynb): Learn how to analyze what 1000+ portfolio owners, i.e. large institutional investors, are doing in the housing market.
 
 ## Parcl Price Feed and Trader Resources
 
 Parcl Labs developed its [Parcl Price Feed](https://www.parcllabs.com/articles/parcl-labs-price-feed-whitepaper) to support the [Parcl](https://app.parcl.co) trading platform, enabling billions in trading volume. Price Feed data serves Parcl Traders and other applications by offering a real-time market indicator of U.S. and global housing market movements.
+
+_Price Action and Sales Volume Technical Chart_
 
 <p align="center">
   <img src="images/technical_pf_usa_vs_demand_chart.png" alt="Alt text">
