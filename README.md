@@ -65,7 +65,7 @@ Analyze investor behavior, portfolio sizes, and their impact on the housing mark
 
 *Notebooks:*
 
-- [**Institutional Investor Acitivity**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/housing_market_research/institutional_activity.ipynb): Learn how to analyze what 1000+ portfolio owners, i.e. large institutional investors, are doing in the housing market.
+- [**Institutional Investor Acitivity**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/housing_market_research/investor_analytics/institutional_activity.ipynb): Learn how to analyze what 1000+ portfolio owners, i.e. large institutional investors, are doing in the housing market.
 
 ## Parcl Price Feed and Trader Resources
 
