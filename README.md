@@ -19,9 +19,9 @@ This repository provides ready-to-use code snippets and notebooks to help you ea
 
 Parcl Labs examples are categorized into three main sections:
 
-1. **Getting Started**: Introductory resources to help you navigate the Parcl Labs API, search markets, and download data into CSVs.
-2. **Housing Market Research**: Notebooks for analyzing the US housing market, including sales, listings, rentals, and investor trends.
-3. **Parcl Price Feed and Trader Resources:** Resources for traders to leverage the Parcl Labs API, understand Parcl markets, access price feed time series, build models. 
+1. [**Getting Started**](#getting-started): Introductory resources to help you navigate the Parcl Labs API, search markets, and download data into CSVs.
+2. [**Housing Market Research**](#housing-market-research): Notebooks for analyzing the US housing market, including sales, listings, rentals, and investor trends.
+3. [**Parcl Price Feed and Trader Resources:**](#parcl-price-feed-and-trader-resources) Resources for traders to leverage the Parcl Labs API, understand Parcl markets, access price feed time series, build models. 
 
 For the brave, explore the **experimental folder** where the Parcl Labs team tests new ideas. See and contribute to ongoing projects.
 
