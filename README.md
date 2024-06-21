@@ -2,9 +2,11 @@
   <img src="images/cookbook_banner.png" alt="Parcl Labs Cook Book">
 </p>
 
-# Welcome to the Lab: Parcl Labs Examples Repository
+# Welcome to the Lab: Parcl Labs Cookbook
 
-This repository provides ready-to-use code snippets and notebooks to help you easily use the Parcl Labs API for its top use cases: real estate trading and housing market analysis.
+**We're on a mission to create the world's best API developer experience and community for housing data.** Our Cookbook open-sources our housing market research, empowering you to go from idea to analytics to insight.
+
+The Cookbook repository provides ready-to-use code snippets and notebooks to help you easily use the Parcl Labs API for its top use cases: real estate trading and housing market analysis.
 
 ## Prerequisites
 
