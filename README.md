@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/cookbook.jpg" alt="Parcl Labs Cook Book">
+</p>
+
 # Welcome to the Lab: Parcl Labs Examples Repository
 
 This repository provides ready-to-use code snippets and notebooks to help you easily use the Parcl Labs API for its top use cases: real estate trading and housing market analysis.
@@ -25,8 +29,8 @@ For the brave, explore the **experimental folder** where the Parcl Labs team tes
 
 If you’re new to the Parcl Labs API, start here!: 
 
-- **Introduction to Search:** Learn how to get the unique `parcl_id` (market level identifiers) for the markets you want to analyze. This is a key concept that will help you understand how to pull market-level datapoints across the API.
-- **Data Downloader:** Download data across all Parcl Labs endpoints into a CSV. This is a great resource for users who want access to Parcl Labs data but may be less familiar with using an API.
+- [**Introduction to Search**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/getting_started/search.ipynb): Learn how to get the unique `parcl_id` (market level identifiers) for the markets you want to analyze. This is a key concept that will help you understand how to pull market-level datapoints across the API.
+- [**Data Downloader**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/getting_started/download_data.ipynb): Download data across all Parcl Labs endpoints into a CSV. This is a great resource for users who want access to Parcl Labs data but may be less familiar with using an API.
 
 ## Housing Market Research
 
@@ -38,9 +42,13 @@ These notebooks fall into two subsections: **Supply and Demand** and **Investor 
 
 Examine market-level trends in listings, sales, rental prices, and supply and demand dynamics.
 
+<p align="center">
+  <img src="images/new_construction_pricing_and_demand.png" alt="Alt text">
+</p>
+
 *Notebooks:*
 
-- [**Market Supply and Demand Analysis**:](https://github.com/ParclLabs/parcllabs-examples/blob/main/python/inspiration/supply_demand.ipynb) Select a market and explore supply, demand, and pricing characteristics related to listings, sales, and rental prices.
+- [**New Construction Trends**:](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/housing_market_research/supply_and_demand/new_construction_trends.ipynb) Select a market and explore new construction supply, demand, and pricing characteristics related to listings, sales, and rental prices.
 
 ### Investor Analytics
 
@@ -48,7 +56,7 @@ Analyze investor behavior, portfolio sizes, and their impact on the housing mark
 
 *Notebooks:*
 
-- [**Institutional Investor Ownership**:](https://github.com/ParclLabs/parcllabs-examples/blob/main/python/inspiration/map_of_investor_ownership.ipynb) Analyze and map investor ownership in counties based on portfolio size to understand their home ownership concentration across the U.S.
+- [**Institutional Investor Ownership**](https://github.com/ParclLabs/parcllabs-examples/blob/main/python/inspiration/map_of_investor_ownership.ipynb): Analyze and map investor ownership in counties based on portfolio size to understand their home ownership concentration across the U.S.
 
 ## Parcl Price Feed and Trader Resources
 
@@ -63,7 +71,7 @@ These resources range from core tasks like downloading price feed data to advanc
 *Notebooks:*
 
 - [**Retrieve and Download Historical Price Feeds**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/price_feed_trader_resources/download_sales_price_feed_data.ipynb): Learn how to retrieve all historical price feeds for markets currently tradeable on the Parcl Exchange. This is useful for backtesting and analyzing past market trends.
-- [**Technical Price Feed and Volume Chart**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/price_feed_trader_resources/technical_pricefeed_vs_supply_demand_chart.ipynb): Create a financial chart that visualizes price feed action and and sales volume.
+- [**Technical Price Feed and Volume Chart**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/price_feed_trader_resources/trader_charts.ipynb): Create a financial chart that visualizes price feed action and and sales volume.
 
 Experimental:
 
