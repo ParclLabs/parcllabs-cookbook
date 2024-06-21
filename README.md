@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/cookbook.jpg" alt="Parcl Labs Cook Book">
+  <img src="images/cookbook_banner.png" alt="Parcl Labs Cook Book">
 </p>
 
 # Welcome to the Lab: Parcl Labs Examples Repository
