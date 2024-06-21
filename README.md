@@ -72,8 +72,3 @@ These resources range from core tasks like downloading price feed data to advanc
 
 - [**Retrieve and Download Historical Price Feeds**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/price_feed_trader_resources/download_sales_price_feed_data.ipynb): Learn how to retrieve all historical price feeds for markets currently tradeable on the Parcl Exchange. This is useful for backtesting and analyzing past market trends.
 - [**Technical Price Feed and Volume Chart**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/price_feed_trader_resources/trader_charts.ipynb): Create a financial chart that visualizes price feed action and and sales volume.
-
-Experimental:
-
-- **Price Feed vs. Rental Feed Relationship Analytics:** Explore the relationship between price feeds and rental feeds using correlation matrices, standard deviations, cross-correlation plots, and dual-axis charts to understand the dynamics and lag effects between sales and rental prices.
-- **Portfolio Construction:** Analyze price feeds for portfolio optimization, assess asset weights over time, evaluate seasonality, and forecast cumulative returns using historical data.
