@@ -83,3 +83,36 @@ These resources range from core tasks like downloading price feed data to advanc
 
 - [**Retrieve and Download Historical Price Feeds**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/price_feed_trader_resources/download_sales_price_feed_data.ipynb): Learn how to retrieve all historical price feeds for markets currently tradeable on the Parcl Exchange. This is useful for backtesting and analyzing past market trends.
 - [**Technical Price Feed and Volume Chart**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/price_feed_trader_resources/trader_charts.ipynb): Create a financial chart that visualizes price feed action and and sales volume.
+
+## Experimental
+More advanced topics and ongoing projects are located in the experimental folder. These notebooks are for the curious and those looking to contribute to ongoing housing research.
+
+_YoY Shifts in Supply and Demand Skew_
+
+<p align="center">
+  <img src="images/tampa_yoy_supply_demand.png" alt="Alt text">
+</p>
+
+_YoY Shifts in Supply and Demand Skew for Many Markets_
+
+<p align="center">
+  <img src="images/YoY Bar Supply Demand.png" alt="Alt text">
+</p>
+
+_Inventory Price Cut Analysis Across Many Marketes_
+
+<p align="center">
+  <img src="images/price_drops.png" alt="Alt text">
+</p>
+
+_New Construction Impact on New Listings Coming to Market_
+
+<p align="center">
+  <img src="images/new_construction_supply.png" alt="Alt text">
+</p>
+
+
+*Notebooks:*
+
+- [**YoY Shifts in Supply and Demand for a Specific Market**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/experimental/supply_and_demand/yoy_supply_changes.ipynb): Learn how to analyze YoY shifts in supply and demand for a given market
+- [**Comprehensive US Housing Analysis Identifying Markets Setup for Price Declines**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/examples/experimental/markets_that_could_disrupt.ipynb): Analyze the entire US housing market and identifying markets that are poised for downward price pressure
