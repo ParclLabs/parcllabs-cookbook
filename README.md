@@ -115,4 +115,4 @@ _New Construction Impact on New Listings Coming to Market_
 *Notebooks:*
 
 - [**YoY Shifts in Supply and Demand for a Specific Market**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/experimental/supply_and_demand/yoy_supply_changes.ipynb): Learn how to analyze YoY shifts in supply and demand for a given market
-- [**Comprehensive US Housing Analysis Identifying Markets Setup for Price Declines**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/examples/experimental/supply_and_demand/markets_that_could_disrupt.ipynb): Analyze the entire US housing market and identifying markets that are poised for downward price pressure
+- [**Comprehensive US Housing Analysis Identifying Markets Setup for Price Declines**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/experimental/supply_and_demand/markets_that_could_disrupt.ipynb): Analyze the entire US housing market and identifying markets that are poised for downward price pressure
