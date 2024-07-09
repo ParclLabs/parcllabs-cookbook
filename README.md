@@ -61,9 +61,15 @@ _New construction analysis_
 
 ### Investor Analytics
 
-Analyze investor behavior, portfolio sizes, and their impact on the housing market.
+Analyze investor behavior, portfolio sizes, and their impact on the housing market. Analyze rental units across the country, their price performance, and how they compare to the overall rental market. Define specific buy box's for investors and analyze how they are performing.
+
+<p align="center">
+  <img src="images/unit_level_dashboard.png" alt="Alt text">
+</p>
 
 *Notebooks:*
+
+- [**Unit Level Rental Performance**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/housing_market_research/investor_analytics/unit_level_data.ipynb): Learn how to build an advanced view of any zipcode in the country, analyzing buy box current and historical performance and the scarcity of a unit among a broader market. 
 
 - [**Institutional Investor Acitivity**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/housing_market_research/investor_analytics/institutional_activity.ipynb): Learn how to analyze what 1000+ portfolio owners, i.e. large institutional investors, are doing in the housing market.
 
