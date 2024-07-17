@@ -63,12 +63,17 @@ _New construction analysis_
 Analyze rental units across the country, their price performance, and how they compare to the overall rental market. Define specific buy box's for investors and analyze how they are performing.
 
 <p align="center">
+  <img src="images/density_map_of_price_changes.png" alt="Alt text">
+</p>
+
+<p align="center">
   <img src="images/unit_level_dashboard.png" alt="Alt text">
 </p>
 
 *Notebooks:*
 
 - [**Unit Level Rental Performance**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/housing_market_research/unit_level/unit_level_data.ipynb): Learn how to build an advanced view of any zipcode in the country, analyzing buy box current and historical performance and the scarcity of a unit among a broader market. 
+- [**Advanced on Market Unit Level Listing Behavior Analysis**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/housing_market_research/unit_level/wip_big_data_unit_analysis.ipynb): Learn how to do advanced on market, unit level analysis to understand where duress is occurring based on vintage and property type. 
 
 ### Investor Analytics
 
