@@ -33,6 +33,7 @@ If you’re new to the Parcl Labs API, start here!:
 
 - [**Introduction to Search**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/getting_started/search.ipynb): Learn how to get the unique `parcl_id` (market level identifiers) for the markets you want to analyze. This is a key concept that will help you understand how to pull market-level datapoints across the API.
 - [**Data Downloader**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/getting_started/download_data.ipynb): Download data across all Parcl Labs endpoints into a CSV. This is a great resource for users who want access to Parcl Labs data but may be less familiar with using an API.
+- [**Bulk Data Downloader**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/getting_started/bulk_data_download.ipynb): For upgraded API users, learn how to pull down thousands of markets across the country and load into a CSV or database. This is a great resource for users who want to analyze many markets at once.
 
 ## Housing Market Research
 
