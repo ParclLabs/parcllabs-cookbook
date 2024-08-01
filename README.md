@@ -55,10 +55,31 @@ _New construction analysis_
   <img src="images/new_construction_pricing_and_demand.png" alt="Alt text">
 </p>
 
+<p align="center">
+  <img src="images/rate_of_sfh_growth.png" alt="Alt text">
+</p>
+
+<p align="center">
+  <img src="images/share_of_new_listings_sfh.png" alt="Alt text">
+</p>
+
+<p align="center">
+  <img src="images/share_of_demand_for_new_construction.png" alt="Alt text">
+</p>
+
+<p align="center">
+  <img src="images/new_construction_sfh_prices.png" alt="Alt text">
+</p>
+
+<p align="center">
+  <img src="images/atx_listings.png" alt="Alt text">
+</p>
+
 *Notebooks:*
 
 - [**Total Supply and Price Changes**:](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/housing_market_research/supply_and_demand/supply_and_price_changes.ipynb) Select a market and explore total supply changes and price changes over time.
 - [**New Construction Trends**:](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/housing_market_research/supply_and_demand/new_construction_trends.ipynb) Select a market and explore new construction supply, demand, and pricing characteristics related to listings, sales, and rental prices.
+- [**New Construction Trends (Advanced)**:](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/housing_market_research/supply_and_demand/new_construction_advanced_analytics.ipynb) Explore the current state of new construction market dynamics across the country.
 
 ### Unit Level Analysis
 Analyze rental units across the country, their price performance, and how they compare to the overall rental market. Define specific buy box's for investors and analyze how they are performing.
