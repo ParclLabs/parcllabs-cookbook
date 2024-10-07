@@ -179,3 +179,4 @@ cython_debug/
 #.idea/
 
 /downloads
+/outputs
