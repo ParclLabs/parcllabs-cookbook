@@ -36,6 +36,7 @@ If you’re new to the Parcl Labs API, start here!:
 - [**Bulk Data Downloader**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/getting_started/bulk_data_download.ipynb): For upgraded API users, learn how to pull down thousands of markets across the country and load into a CSV or database. This is a great resource for users who want to analyze many markets at once.
 - [**Property Data Downloader**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/getting_started/property_data_download.ipynb): Retrieve unit-level information from Parcl Labs’ Property API endpoints and export to CSV.
 
+- [**Address Search**](https://github.com/ParclLabs/parcllabs-cookbook/blob/main/examples/getting_started/address_search.ipynb): Search single or a list of property addresses to fetch historical sales, listings, and rental events.
 ## Housing Market Research
 
 Parcl Labs produces and open sources cutting-edge research on the housing market. The intent of these notebooks is to make this type of analysis accessible to everyone, from curating datasets to generating user-friendly charts.
