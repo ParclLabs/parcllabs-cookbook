@@ -1,0 +1,347 @@
+[
+  {
+    "category": "notebook",
+    "title": "Supply-Demand Gap & Price Cut Analysis",
+    "description": "Analyze housing market dynamics through supply-demand relationships and price reduction trends, with comparison against national benchmarks.",
+    "url": "examples/housing_market_research/supply_and_demand/External_Supply_Demand_Price_Cuts_Analysis.ipynb",
+    "publication_date": "2024-12-23",
+    "tags": [
+      {"name": "housing_market", "relevance_score": 1.0},
+      {"name": "supply_demand", "relevance_score": 0.9},
+      {"name": "price_analysis", "relevance_score": 0.8},
+      {"name": "market_research", "relevance_score": 0.7},
+      {"name": "data_visualization", "relevance_score": 0.6},
+      {"name": "benchmarking", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "Market Search Guide",
+    "description": "Learn how to search and retrieve market data using the Parcl Labs API, including cities, zip codes, counties, and metro areas.",
+    "url": "examples/getting_started/search.ipynb",
+    "publication_date": "2024-05-15",
+    "tags": [
+      {"name": "getting_started", "relevance_score": 1.0},
+      {"name": "search", "relevance_score": 0.9},
+      {"name": "market_data", "relevance_score": 0.8},
+      {"name": "api_tutorial", "relevance_score": 0.7},
+      {"name": "geographic_data", "relevance_score": 0.6},
+      {"name": "basic_operations", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "Data Download Guide",
+    "description": "Learn how to download housing market data as CSV files using the Parcl Labs API, with examples for various metrics and markets.",
+    "url": "examples/getting_started/download_data.ipynb",
+    "publication_date": "2024-06-19",
+    "tags": [
+      {"name": "getting_started", "relevance_score": 1.0},
+      {"name": "data_export", "relevance_score": 0.9},
+      {"name": "csv", "relevance_score": 0.8},
+      {"name": "market_metrics", "relevance_score": 0.7},
+      {"name": "api_tutorial", "relevance_score": 0.6},
+      {"name": "data_retrieval", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "Technical Price Feed Analysis",
+    "description": "Create technical analysis charts of real-time price feeds with housing demand metrics overlay for market analysis.",
+    "url": "examples/price_feed_trader_resources/trader_charts.ipynb",
+    "publication_date": "2024-06-20",
+    "tags": [
+      {"name": "price_feed", "relevance_score": 1.0},
+      {"name": "technical_analysis", "relevance_score": 0.9},
+      {"name": "trading", "relevance_score": 0.8},
+      {"name": "data_visualization", "relevance_score": 0.7},
+      {"name": "market_analysis", "relevance_score": 0.6},
+      {"name": "real_time_data", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "Precision Address Research",
+    "description": "Learn how to research specific property addresses using the Parcl Labs API, with support for both individual and batch address lookups.",
+    "url": "examples/getting_started/address_search.ipynb",
+    "publication_date": "2024-10-29",
+    "tags": [
+      {"name": "getting_started", "relevance_score": 1.0},
+      {"name": "address_search", "relevance_score": 0.9},
+      {"name": "property_data", "relevance_score": 0.8},
+      {"name": "batch_processing", "relevance_score": 0.7},
+      {"name": "data_retrieval", "relevance_score": 0.6},
+      {"name": "property_events", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "SFR Entity Portfolio Analysis",
+    "description": "Analyze behavior and performance of major single-family rental operators through portfolio tracking and rental metrics analysis.",
+    "url": "examples/housing_market_research/investor_analytics/entity_analysis.ipynb",
+    "publication_date": "2024-09-05",
+    "tags": [
+      {"name": "investor_analytics", "relevance_score": 1.0},
+      {"name": "portfolio_analysis", "relevance_score": 0.9},
+      {"name": "rental_market", "relevance_score": 0.8},
+      {"name": "institutional_investors", "relevance_score": 0.7},
+      {"name": "market_research", "relevance_score": 0.6},
+      {"name": "property_tracking", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "Invitation Homes YoY Analysis",
+    "description": "Track and analyze Invitation Homes portfolio changes and rental rates across tertiary markets with year-over-year comparisons.",
+    "url": "examples/housing_market_research/investor_analytics/invh_yoy_change.ipynb",
+    "publication_date": "2024-11-18",
+    "tags": [
+      {"name": "investor_analytics", "relevance_score": 1.0},
+      {"name": "portfolio_tracking", "relevance_score": 0.9},
+      {"name": "rental_rates", "relevance_score": 0.8},
+      {"name": "market_comparison", "relevance_score": 0.7},
+      {"name": "year_over_year", "relevance_score": 0.6},
+      {"name": "institutional_investors", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "Bulk Data Download Guide",
+    "description": "Learn how to efficiently download and process housing metrics for thousands of markets, with options for CSV export and SQL table loading.",
+    "url": "examples/getting_started/bulk_data_download.ipynb",
+    "publication_date": "2024-07-18",
+    "tags": [
+      {"name": "getting_started", "relevance_score": 1.0},
+      {"name": "bulk_download", "relevance_score": 0.9},
+      {"name": "data_processing", "relevance_score": 0.8},
+      {"name": "market_metrics", "relevance_score": 0.7},
+      {"name": "data_export", "relevance_score": 0.6},
+      {"name": "sql_integration", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "Supply-Demand YoY Changes Analysis",
+    "description": "Analyze year-over-year changes in housing supply and demand, focusing on market inflection points using Tampa as a case study.",
+    "url": "examples/experimental/supply_and_demand/yoy_supply_changes.ipynb",
+    "publication_date": "2024-06-20",
+    "tags": [
+      {"name": "experimental", "relevance_score": 1.0},
+      {"name": "supply_demand", "relevance_score": 0.9},
+      {"name": "market_analysis", "relevance_score": 0.8},
+      {"name": "year_over_year", "relevance_score": 0.7},
+      {"name": "data_visualization", "relevance_score": 0.6},
+      {"name": "market_trends", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "Market Portfolio Concentration Analysis",
+    "description": "Analyze investor ownership concentration in metropolitan housing markets, focusing on portfolio sizes and market behavior patterns.",
+    "url": "examples/housing_market_research/investor_analytics/portfolio_analysis.ipynb",
+    "publication_date": "2024-08-30",
+    "tags": [
+      {"name": "investor_analytics", "relevance_score": 1.0},
+      {"name": "market_concentration", "relevance_score": 0.9},
+      {"name": "portfolio_analysis", "relevance_score": 0.8},
+      {"name": "rental_market", "relevance_score": 0.7},
+      {"name": "market_trends", "relevance_score": 0.6},
+      {"name": "institutional_investors", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "Florida Condo Market Analysis",
+    "description": "Analyze Florida's condominium market dynamics using Parcl Labs API, focusing on supply, demand, and price trends specific to condos.",
+    "url": "examples/experimental/supply_and_demand/florida_condo_analysis.ipynb",
+    "publication_date": "2024-08-01",
+    "tags": [
+      {"name": "experimental", "relevance_score": 1.0},
+      {"name": "florida_market", "relevance_score": 0.9},
+      {"name": "condo_analysis", "relevance_score": 0.8},
+      {"name": "market_research", "relevance_score": 0.7},
+      {"name": "supply_demand", "relevance_score": 0.6},
+      {"name": "property_type", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "Market Deep Dive Analysis",
+    "description": "Comprehensive analysis of market dynamics including supply-demand changes, price cuts, inventory location, and property type distribution.",
+    "url": "examples/experimental/supply_and_demand/market_deep_dive_analysis.ipynb",
+    "publication_date": "2024-10-07",
+    "tags": [
+      {"name": "experimental", "relevance_score": 1.0},
+      {"name": "market_analysis", "relevance_score": 0.9},
+      {"name": "data_visualization", "relevance_score": 0.8},
+      {"name": "supply_demand", "relevance_score": 0.7},
+      {"name": "price_analysis", "relevance_score": 0.6},
+      {"name": "property_type", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "Disruptive Markets Analysis",
+    "description": "Identify markets with potential to disrupt US housing trends through supply-demand imbalances, price drops, and post-COVID appreciation patterns.",
+    "url": "examples/experimental/supply_and_demand/markets_that_could_disrupt.ipynb",
+    "publication_date": "2024-06-25",
+    "tags": [
+      {"name": "experimental", "relevance_score": 1.0},
+      {"name": "market_disruption", "relevance_score": 0.9},
+      {"name": "trend_analysis", "relevance_score": 0.8},
+      {"name": "supply_demand", "relevance_score": 0.7},
+      {"name": "price_trends", "relevance_score": 0.6},
+      {"name": "covid_impact", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "US Price Feed vs Market Indicators",
+    "description": "Compare US housing market price feed data with traditional market indicators and ticker symbols for comprehensive market analysis.",
+    "url": "examples/experimental/supply_and_demand/us_pricefeed_vs_ticker_symbol.ipynb",
+    "publication_date": "2024-08-27",
+    "tags": [
+      {"name": "experimental", "relevance_score": 1.0},
+      {"name": "price_feed", "relevance_score": 0.9},
+      {"name": "market_comparison", "relevance_score": 0.8},
+      {"name": "financial_analysis", "relevance_score": 0.7},
+      {"name": "stock_market", "relevance_score": 0.6},
+      {"name": "data_correlation", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "Housing Supply Source Analysis",
+    "description": "Analyze the sources of housing market supply, breaking down contributions from investors, new construction, and existing homeowners.",
+    "url": "examples/experimental/supply_and_demand/wip_who_is_providing_supply.ipynb",
+    "publication_date": "2024-07-09",
+    "tags": [
+      {"name": "experimental", "relevance_score": 1.0},
+      {"name": "supply_analysis", "relevance_score": 0.9},
+      {"name": "investor_impact", "relevance_score": 0.8},
+      {"name": "market_research", "relevance_score": 0.7},
+      {"name": "portfolio_size", "relevance_score": 0.6},
+      {"name": "new_construction", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "Investor Market Analytics Dashboard",
+    "description": "Comprehensive dashboard for analyzing investor-owned properties, supply-demand changes, rental listings, and pricing trends.",
+    "url": "examples/experimental/use_cases/investor-market-analytics.ipynb",
+    "publication_date": "2024-10-17",
+    "tags": [
+      {"name": "experimental", "relevance_score": 1.0},
+      {"name": "investor_analytics", "relevance_score": 0.9},
+      {"name": "market_dashboard", "relevance_score": 0.8},
+      {"name": "rental_market", "relevance_score": 0.7},
+      {"name": "supply_demand", "relevance_score": 0.6},
+      {"name": "market_trends", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "2024 Housing Price Analysis",
+    "description": "Comprehensive analysis of housing price trends and forecasts for 2024, utilizing advanced visualization and statistical methods.",
+    "url": "examples/experimental/use_cases/price_analysis_2024.ipynb",
+    "publication_date": "2024-12-16",
+    "tags": [
+      {"name": "experimental", "relevance_score": 1.0},
+      {"name": "price_analysis", "relevance_score": 0.9},
+      {"name": "market_trends", "relevance_score": 0.8},
+      {"name": "data_visualization", "relevance_score": 0.7},
+      {"name": "forecasting", "relevance_score": 0.6},
+      {"name": "statistical_analysis", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "2024 Rental Market Analysis",
+    "description": "In-depth analysis of rental market prices and trends for 2024, focusing on rental rates, market dynamics, and future projections.",
+    "url": "examples/experimental/use_cases/price_analysis_rentals_2024.ipynb",
+    "publication_date": "2024-12-16",
+    "tags": [
+      {"name": "experimental", "relevance_score": 1.0},
+      {"name": "rental_market", "relevance_score": 0.9},
+      {"name": "price_analysis", "relevance_score": 0.8},
+      {"name": "market_trends", "relevance_score": 0.7},
+      {"name": "data_visualization", "relevance_score": 0.6},
+      {"name": "rental_rates", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "Property Data Download Guide",
+    "description": "Learn how to download and analyze individual property data and events using the Parcl Labs API, with focus on specific market identifiers.",
+    "url": "examples/getting_started/property_data_download.ipynb",
+    "publication_date": "2024-08-27",
+    "tags": [
+      {"name": "getting_started", "relevance_score": 1.0},
+      {"name": "property_data", "relevance_score": 0.9},
+      {"name": "data_download", "relevance_score": 0.8},
+      {"name": "api_tutorial", "relevance_score": 0.7},
+      {"name": "event_tracking", "relevance_score": 0.6},
+      {"name": "data_analysis", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "Institutional Investor Activity Analysis",
+    "description": "Track and analyze large institutional investors (1000+ portfolios) activities, including acquisitions, dispositions, and inventory trends.",
+    "url": "examples/housing_market_research/investor_analytics/institutional_activity.ipynb",
+    "publication_date": "2024-06-20",
+    "tags": [
+      {"name": "investor_analytics", "relevance_score": 1.0},
+      {"name": "institutional_investors", "relevance_score": 0.9},
+      {"name": "portfolio_tracking", "relevance_score": 0.8},
+      {"name": "market_activity", "relevance_score": 0.7},
+      {"name": "acquisition_analysis", "relevance_score": 0.6},
+      {"name": "inventory_trends", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "New Construction Advanced Analytics",
+    "description": "Advanced analysis of new construction trends, including supply-demand dynamics, price performance, and market distress indicators.",
+    "url": "examples/housing_market_research/supply_and_demand/new_construction_advanced_analytics.ipynb",
+    "publication_date": "2024-08-01",
+    "tags": [
+      {"name": "new_construction", "relevance_score": 1.0},
+      {"name": "market_analysis", "relevance_score": 0.9},
+      {"name": "supply_demand", "relevance_score": 0.8},
+      {"name": "price_performance", "relevance_score": 0.7},
+      {"name": "market_trends", "relevance_score": 0.6},
+      {"name": "distress_indicators", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "New Construction Market Trends",
+    "description": "Analyze supply, demand, and price trends specific to new construction in the US housing market, with customizable geographic focus.",
+    "url": "examples/housing_market_research/supply_and_demand/new_construction_trends.ipynb",
+    "publication_date": "2024-06-20",
+    "tags": [
+      {"name": "new_construction", "relevance_score": 1.0},
+      {"name": "market_trends", "relevance_score": 0.9},
+      {"name": "price_analysis", "relevance_score": 0.8},
+      {"name": "supply_demand", "relevance_score": 0.7},
+      {"name": "geographic_analysis", "relevance_score": 0.6},
+      {"name": "construction_metrics", "relevance_score": 0.5}
+    ]
+  },
+  {
+    "category": "notebook",
+    "title": "Price Feed Data Download Guide",
+    "description": "Learn how to retrieve and download historical price feed data for market analysis and backtesting, focusing on tradeable markets.",
+    "url": "examples/price_feed_trader_resources/download_sales_price_feed_data.ipynb",
+    "publication_date": "2024-06-19",
+    "tags": [
+      {"name": "price_feed", "relevance_score": 1.0},
+      {"name": "data_download", "relevance_score": 0.9},
+      {"name": "historical_data", "relevance_score": 0.8},
+      {"name": "backtesting", "relevance_score": 0.7},
+      {"name": "market_data", "relevance_score": 0.6},
+      {"name": "trading_analysis", "relevance_score": 0.5}
+    ]
+  }
+] 
