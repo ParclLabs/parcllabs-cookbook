@@ -13,6 +13,7 @@ __pycache__/
 data/
 *.csv
 *.json
+!notebooks.json
 
 # scripts
 scripts/
