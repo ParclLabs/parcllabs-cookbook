@@ -349,7 +349,7 @@
     "title": "Download Property Data",
     "description": "Learn how to retrieve and download property data with event history (sales, listings, rentals) as well as property details and information about ownership",
     "url": "examples/getting_started/property_downloader_simplified.ipynb",
-    "publication_date": "2024-06-19",
+    "publication_date": "2025-01-29",
     "tags": [
       {"name": "getting_started", "relevance_score": 0.9},
       {"name": "property_data", "relevance_score": 1.0},
