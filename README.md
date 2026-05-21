@@ -12,8 +12,7 @@ The Cookbook repository provides ready-to-use code snippets and notebooks to hel
 
 1. **Sign up for a free API key:** To use the examples in this repository, get a Parcl Labs API key [here](https://dashboard.parcllabs.com/signup).
 2. **Review the API documentation:** Understand the data points, markets, and resources available. For help, check out these links:
-    - [API developer documentation](https://docs.parcllabs.com/docs/introduction)
-    - [Parcl Labs API community](https://docs.parcllabs.com/discuss)
+    - [API developer documentation](https://docs.parcllabs.com/reference.html)
     - [Parcl Labs SDK](https://github.com/ParclLabs/parcllabs-python)
 3. **Set up to use example notebooks:** Use [Google Colab](https://colab.research.google.com/) for quick setup and execution, or run the code locally or your preferred environment. Google Colab is embedded in primary notebooks for easy use.
 
